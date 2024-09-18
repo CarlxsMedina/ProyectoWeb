@@ -149,7 +149,7 @@ html{
 }
 
 #comidas_inicio{
-    background-image: url(/img/fondo_inicio.1.jpg);
+    background-image: url('../asset/img/fondo_inicio.1.jpg');
     background-size: cover;
     padding-bottom: 50px;
 }
